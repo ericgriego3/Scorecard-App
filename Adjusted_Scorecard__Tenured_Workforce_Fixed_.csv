@@ -1,0 +1,15 @@
+,Category,Metric,k,Score,Max
+0,Speeding,2.2,0.036,9.61,10.4
+1,Seatbelts,7.6,0.0575,6.72,10.4
+2,Sign/Signal,1.5,0.036,9.85,10.4
+3,Distraction,2.0,0.0959,5.53,6.7
+4,Following Distance,1.5,0.0959,3.9,4.5
+5,Delivery Completion Rate,99.7,0.2877,9.17,10.0
+6,Photo on Delivery,98.53,0.1438,2.02,2.5
+7,Delivery Success Behaviours,238.0,0.0012,7.6,10.0
+8,CDF,951.0,0.0003,5.24,6.7
+9,Customer Escalation Defect,0.0,0.001,13.3,13.3
+10,High Performer Share,100.0,0.3,5.0,5.0
+11,Low Performer Share,100.0,0.3,5.0,5.0
+12,Tenured Workforce,94.8,0.0553,3.75,5.0
+Total,,,,86.69,99.9
